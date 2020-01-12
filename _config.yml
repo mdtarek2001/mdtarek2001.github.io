@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Tarekur MAZUMDER"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile_pic.jpg"
+  bio              : "Master's student at Ecole Nationale d'ingénieur de Metz"
+  location         : "Metz"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
